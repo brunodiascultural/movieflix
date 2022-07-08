@@ -13,8 +13,17 @@ Em seguida, cole o número da APIKEY no aquivo .env dentro do projeto.
 ![Captura de Tela 2022-07-08 às 14 52 24](https://user-images.githubusercontent.com/83181304/178045800-225862e0-f1de-4412-9479-e03b001c40d6.png)
 
 ## Rodando o Projeto
-Faça o download do projeto
-Abra a pasta do projeto no Visual Studio Code
-Cole sua APIKEY no arquivo .env como mostra a foto acima
+
+- Faça o download do projeto
+- Abra a pasta do projeto no Visual Studio Code
+- Cole sua APIKEY no arquivo .env como mostra a foto acima
+- Abra o terminal do VS Code e digite:
+
+### npm install
+após a instalação das dependências execute o comando a seguir para iniciar o servidor local:
+### npm rum dev
+a aplicação estará disponível no endereço:
+
+http://localhost:3000/
 
 
