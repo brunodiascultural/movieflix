@@ -4,7 +4,7 @@ import MovieCard from "../componets/MovieCard";
 
 import './MoviesGrid.css'
 
-// Criar duas constantes (chave da API e URL da API)
+// Criar duas constantes (chave da API e URL da API).
 const moviesURL = import.meta.env.VITE_API;  //importando API que está no arquivo (.env)
 const apikey = import.meta.env.VITE_API_KEY;
 
